@@ -5,6 +5,8 @@ The purpose of the analysis is to compare the outcome of stocks in given years o
 
 ## Results
 In refactoring we can change the database pattern of the code without changing its external behavior and ultimately improve its design.
+![2017 results](2017.png)
+![2018 results](2018.png)
 
 ## Summary
 
